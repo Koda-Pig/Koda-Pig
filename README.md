@@ -1,4 +1,4 @@
 - 🐷 Howzit, I’m Koda-Pig
 - 👀 I’m interested in HTML, CSS & JS
-- 🌱 I’m currently learning JS
+- 🌱 Always learning 
 - 📫 Reach me here: info@joshkoter.com
