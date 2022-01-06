@@ -1,4 +1,4 @@
 - 🐷 Howzit! I’m Koda-Pig, a Front-End Dev
 - 👀 I’m interested in HTML, CSS & JS
 - 🌱 Always learning 
-- 📫 Reach me here: info@joshkoter.com
+- 📫 Reach me here: josh.koter@gmail.com
