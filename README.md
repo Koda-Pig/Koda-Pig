@@ -1,5 +1,7 @@
-🐷 Hi! I’m Koda-Pig, a frontend engineer.
+Hi I'm Koda-Pig, a frontend engineer.
 
-👀 I’m interested in Markup, Markdown, CSS, SASS, JS, TS, React, Next.js, and Ramen.
+I’m interested in CSS, JS, TS, React, and Ramen.
 
-🌱 Always learning 
+Come fight me https://cssbattle.dev/player/koda_pig
+
+Always learning.
