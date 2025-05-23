@@ -1,7 +1,7 @@
 Hi I'm Koda-Pig, a frontend engineer.
 
-I’m interested in CSS, JS, TS, React, and Ramen.
+I’m more interested in the fundamentals of frontend web development - HTML, CSS, JS, & Ramen - than in the tools, supersets and frameworks built on top of them. SCSS and TS are pretty cool tho.
 
-Come fight me https://cssbattle.dev/player/koda_pig
+[Lets play CSS golf](https://cssbattle.dev/player/koda_pig)
 
 Always learning.
